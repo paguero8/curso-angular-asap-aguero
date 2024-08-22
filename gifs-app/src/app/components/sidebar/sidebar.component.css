@@ -1,0 +1,13 @@
+#sidebar-wrapper {
+  width: 250px;
+  position: fixed;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+#page-content-wrapper {
+  width: 100%;
+  padding-left: 250px;
+}
