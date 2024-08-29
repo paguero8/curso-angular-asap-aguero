@@ -1,0 +1,29 @@
+.sidenav-container{
+    width: 100%;
+    height: 100vh;
+    background-color: #fafafa;
+    color: black;
+}
+
+.mat-drawer {
+    width: 25%;
+    padding: 25px;
+    background-color: #fafafa;
+    color: black;
+}
+
+.mat-card{
+    background-color: #B4A797;
+}
+
+.content{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    width: 75%;
+}
+
+.countries{
+    width: 100%;
+}
